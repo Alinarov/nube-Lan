@@ -1,9 +1,7 @@
 # INFO IMPORTANTE
 
 # COSAS POR HACER
-1. hacer un servidor que en este caso sea el que envie un json con
-la informacion de los archivos y directorios en el directorio actual
-
+1. sofisticar y optimizar el codigo de tanto como el servidor como el interfaz cliente los dos funcionan en LINUX
 Y su cliente reciva el json y que este lo interprete.
 
 
